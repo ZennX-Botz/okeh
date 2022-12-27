@@ -15,18 +15,19 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Zyko-MD
+${htjava} *💌 Nama* : Flawz
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18 🥶
-${htjava} *🧮 Kelas* : private
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Sukabumi
-${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
-${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
-${htjava} *💌 TY:* ${syt}
+${htjava} *⏰ Tanggal lahir* : 
+${htjava} *🎨 Umur* : 1 Tahun Bg
+${htjava} *🧮 Kelas* : Paud bg jailah
+${htjava} *🧩 Hobby* : Turu
+${htjava} *💬 Sifat* : Asik
+${htjava} *🗺️ Tinggal* : Mars
+${htjava} *📷 Instagram* : ${sig}
+${htjava} *🐈 Github:* ${sgh}
+${htjava} *❤️ Ayang:* Aulia👾
+${htjava} *💌 YT:* ${syt}
 •·––––––––––––––––––––––––––·•
 `
   let teks = 'Pilih dibawah kak ! o(〃＾▽＾〃)o'
@@ -37,7 +38,7 @@ const sections = [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
 	{title: "📱 • Creator", rowId: ".zyko"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
-	{title: "🌎 • Script", rowId: ".sc"},
+	
 	]
     },{
 	title: `${htjava} SUPPORT ME –––––––·•`,
