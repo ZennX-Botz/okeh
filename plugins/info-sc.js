@@ -19,13 +19,13 @@ let flaaa2 = [
  wa.me/6289510598381`
     let nth = `☰⟥⟝⟞⟝❨ *_SCRIPT_* ❩⟞⟝⟞⟤☰`
  conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://wa.me/message/IT4R6JHOR74XP1',
+    mediaUrl: 'https://wa.me/6289510598381',
     mediaType: 2, 
     description: sgc,
     title: "Sᴇᴡᴀ Cᴇᴋ Dɪsɪɴɪ Cᴜʏ!!!",
     body: bottime,
     thumbnail: fs.readFileSync('./media/qr.png'),
-    sourceUrl: 'https://wa.me/message/IT4R6JHOR74XP1',
+    sourceUrl: 'https://wa.me/6289510598381',
      }}
   })
 }
