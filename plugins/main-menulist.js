@@ -342,7 +342,7 @@ const sections = [
         {title: `${emot} 𝐸𝑋𝑃`, rowId: ".? xp", description: "𝐴𝑌𝑂 𝑇𝐼𝑁𝐺𝐾𝐴𝑇𝐾𝐴𝑁 𝑃𝐴𝑁𝐺𝐾𝐴𝑇 𝑀𝑈!"},
            ]
       },{
-        title: `${htki} GAME ${htka}`,
+        title: `${htki} 𝐺𝐴𝑀𝐸 ${htka}`,
         rows: [
      {title: `${emot} 𝐺𝐴𝑀𝐸`, rowId: ".? game", description: "𝐺𝐴𝑀𝐸𝑁𝑌𝐴 𝑆𝐸𝑅𝑈 𝑆𝐸𝑅𝑈 𝐿𝐻𝑂 >-<"},
          ]
@@ -364,7 +364,7 @@ const sections = [
       },{
         title: `${htki} 𝐾𝐸𝑅𝐴𝑁𝐺 ${htka}`,
         rows: [
-      {title: `${emot} Kerang`, rowId: ".? kerangajaib", description: "𝑇𝐴𝑁𝑌𝐴𝐾𝐴𝑁 𝑃𝐴𝐷𝐴 𝐾𝐸𝑇𝑈𝐴 𝐶𝐿𝑈𝐵"},
+      {title: `${emot} 𝐾𝐸𝑅𝐴𝑁𝐺`, rowId: ".? kerangajaib", description: "𝑇𝐴𝑁𝑌𝐴𝐾𝐴𝑁 𝑃𝐴𝐷𝐴 𝐾𝐸𝑇𝑈𝐴 𝐶𝐿𝑈𝐵"},
           ]
       },{
         title: `${htki} 𝑄𝑈𝑂𝑇𝐸𝑆 ${htka}`,
@@ -560,9 +560,9 @@ let tek = `✧────···[ Dashboard ]···────✧
 │
 ├━━━━━━━━━━━━━━━━┈─⋆
 │
-│ ▸ *Sumber :* YouTube ZykoBotz-MD Official
-│ ▸ *ᴀᴜᴛʜᴏʀ :* 𝑍𝑌𝐾𝑂-𝑀𝐷
-┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
+│ ▸ *ᴀᴜᴛʜᴏʀ :* Flawz XD
+│ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
+┴
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ ʙᴇʀɪ ᴊᴇᴅᴀ ʏᴀʜ ᴋᴀᴋ ^ω^
@@ -819,7 +819,7 @@ ${emot}│☂︎ *Uptime:* ${mpt}
 │ *Ⓛ* = Limit
 ▣────────────⬣`
 let nomorwa = '0'
-let nomorowm1 = '6281386943282'
+let nomorowm1 = '6289510598381'
 let d1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 let d2 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 let d3= 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
