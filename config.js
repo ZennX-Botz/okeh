@@ -50,17 +50,17 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
+['6289510598381', 'Flawz Slebew, true],
+['6289503281086', 'Bot WA', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
-global.nomorown1 = '6281386943282'
-global.nomorown2 = '6281386943282'
+global.nomorbot = '6289503281086'
+global.nomorown = '6289510598381'
+global.nomorown1 = '6289510598381'
+global.nomorown2 = '6289503281086'
 global.nomorwa = '0'
-global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown = 'Flawz Slebew'
 
 /*============== STAFF ==============*/
 /*global.owner = [
@@ -74,53 +74,53 @@ global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.gcname = 'ZennX-Botz Official'
+global.botintro = 'Hallo, Saya *ZennX-Botz* Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Flawz Slebew* Saya di rilis pada tanggal\n🗓 ️_1/1/2023_'
 global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
-global.author = 'Created By 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.author = '© ZennX-Botz'
+global.namebot = 'ZennX-Botz'
+global.packname2 = 'Created By'
+global.wm = 'Powered By © ZennX-Botz'
 global.media = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
 global.watermark = wm
-global.wame = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.wm2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 '
+global.wame = 'https://wa.me/6289510598381'
+global.wm2 = 'ZennX-Botz | Multi-Device'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
-global.stickpack = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.stickauth = `© 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.titlebot = `© ZennX-Botz`
+global.stickpack = 'Created By'
+global.stickauth = `© ZennX-Botz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.nameown2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown1= 'Flawz Slebew'
+global.nameown2 = 'Bot WA'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R' //group whatsapp
+global.sig = 'https://instagram.com/karfuanyogich'
+global.tautanwa = 'https://wa.me/6289510598381'
+global.sgh = 'https://github.com/ZennX-Botz' //github
+global.sgc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/@zykobotz'
+global.syt = 'https://youtube.com/@Vallzy_YETE'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
+global.snh = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085212649276'
-global.povo = '081386943282'
-global.pgopay = '085212649276'
+global.pdana = '089510598381'
+global.povo = '-'
+global.pgopay = '089510598381'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085212649276'
-global.ppulsa2 = '085212649276'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '089510598381'
+global.ppulsa2 = '089503281086'
+global.psaweria = 'https://saweria.co/yogzkyz'
+global.donasikabul = 'Jasa Sewa ZennX-Botz\nhttps://wa.me/6289510598381',
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -341,9 +341,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/karfuanyogich"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281386943282'
+global.phn = '6289510598381'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
