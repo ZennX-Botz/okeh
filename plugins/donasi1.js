@@ -18,8 +18,8 @@ let str = `
 let wibu = `https://telegra.ph/file/82f399cf9dd246029ad4a.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.send3ButtonDoc(m.chat, str, botdate,'Sewa Bot','.sewa','QR+PAYMENT','.donasi1','Menu','.menu', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "tautanwa",
-    mediaType: "tautanwa",
+    mediaUrl: "https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl",
+    mediaType: "https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
     title: 'SUBSCRIBE YT',
     body: bottime,
